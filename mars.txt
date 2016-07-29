@@ -1,2 +1,3 @@
 Mars is a red planet.
-Mars is also a red giant
+Mars is also a red giant.
+It has two moons.
